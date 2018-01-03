@@ -1,0 +1,9 @@
+{
+  "name": "parcel-encodedURItest",
+  "version": "1.0.0",
+  "description": "This is a test code of parcel for the encoded URI issue.",
+  "main": "index.js",
+  "repository": "git@github.com:zacky1972/parcel-encodedURItest.git",
+  "author": "Susumu Yamazaki <zacky1972@gmail.com>",
+  "license": "MIT"
+}
